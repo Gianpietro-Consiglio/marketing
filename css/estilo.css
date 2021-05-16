@@ -1,0 +1,137 @@
+.carousel-caption{
+    background-color:rgba(0,0,0, 0.5);
+    color: whitesmoke;
+}
+
+.titulos{
+    margin: auto;
+    width: fit-content;
+    border-bottom: 7px solid #333;
+
+}
+
+.row{
+    text-align: center;
+    margin-top: 10px;
+}
+
+/*.col-md{
+    margin-right: 5px;
+    border-radius: 10px 10px 10px 10px;
+}*/
+
+.cinza-20{
+    background-color: #ccc;
+}
+
+.cinza-40{
+    background-color: #999;
+}
+
+.cinza-60{
+    background-color: #666;
+}
+
+.cinza-80{
+    background-color: #333;
+}
+
+
+.cinza1, .cinza3{
+    background-color: #333;
+    color: white;
+}
+
+.cinza2{
+    background-color: #666;
+    color: white;
+}
+
+.buttom{
+    border: none;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+}
+
+.buttom2{
+    background-color: #ccc;
+    border: none;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    width: 100%;
+    padding: 5px;
+    transition:0.7s;
+}
+
+.buttom2:hover{
+    background-color: #333;
+}
+
+
+.miniatura{
+    display: inline-block;
+    margin: 5px;
+    width: 120px;
+}
+
+.miniatura img{
+    width: 120px;
+}
+
+
+input{
+    width: 100%;
+}
+
+#mensagem{
+    height: 100px;
+}
+
+.peru{
+    background-color: #333;
+    color: whitesmoke;
+    width: 100%;
+    margin-top: 10px;
+}
+
+footer{
+    background-color: #ccc;
+    height: 100%;
+    margin-top: 100px;
+}
+
+footer iframe{
+    margin-left: 100px;
+}
+
+footer p{
+    margin-left: 100px;
+    margin-bottom: -45px;
+}
+
+#icones111{
+    display: inline-block;
+    margin-left: 1000px;
+    margin-top: 20px;
+}
+
+#icones111 i{
+    margin-right: 5px;
+}
+
+
+.seta-sobe{
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.4);
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 14px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    cursor: pointer;
+    display: none;
+}
+
